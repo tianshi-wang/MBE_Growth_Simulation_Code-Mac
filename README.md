@@ -6,6 +6,6 @@ The compiled code is released [here](https://github.com/tianshi-wang/MBE_Growth_
 
 The coded is based on the KMCInterative code written by Michael Grundmann (mgrundmann@ece.ucsb.edu). The paper about KMCInteractive can be found at the [website](http://my.ece.ucsb.edu/mgrundmann/kmcinteractive/mbesimpaper.pdf).
 
-The code is written using C++ with OpenGL and QT5. To revise or recompile the code, first download [QT5](https://www1.qt.io/download-open-source/?hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2). Then, open the downloaded source files with QT5. Make sure your framework has the OpenGL and GLUT libraries. 
+The code is written using C++ with OpenGL and QT5. To revise or recompile the code, first download [QT5](https://www1.qt.io/download-open-source/?hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2). Then, open the downloaded source files (**MBEcodeSourceFiles_MAC.zip**) with QT5. Make sure your framework has the OpenGL and GLUT libraries. 
 
 For any question, please contact us: Tianshi Wang (tswang@udel.edu) & Wei Li (Verali@udel.edu).
