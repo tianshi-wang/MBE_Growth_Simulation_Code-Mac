@@ -1,4 +1,4 @@
-# MBE_Growth_Simulation_Code-Mac
+# Source files of the MBE Growth Simulation Code (Mac)
 
 This is the source file package of the MBE Growth Simulation Code for Mac users. For Windows users, please find the source files and compiled codes using this [link](https://github.com/tianshi-wang/MBE_Growth_Simulation_Code-Windows).
 
