@@ -17,15 +17,18 @@ The coded is based on the KMCInterative code written by Michael Grundmann (mgrun
 
 The code is written using C++ with OpenGL and QT5. To revise or recompile the code, first download [QT5](https://www1.qt.io/download-open-source/?hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2). Then, open the downloaded source files (**MBEcodeSourceFiles_MAC.zip**) with QT5. Make sure your framework has the OpenGL and GLUT libraries. 
 
-- Icon.ico	 
-- MBEcodeProject.pro
-MBEcodeProject.pro.user	
-griddata.cpp, griddata.h	
-main.cpp
-myglwidget.cpp, myglwidget.h
-results.cpp, results.h
-solver.cpp, solver.h
-window.cpp, window.h
-window.ui
+# Display 
+![Initial_state](./screenshot/initial_state?raw=true "Title")
 
+# Code Structure
+- Icon.icon: Code icon. 
+- MBEcodeProject.pro and MBEcodeProject.pro.user: QT5 profile including required libraries
+- griddata.cpp and griddata.h: Setting different grid dimensions and related variables. 
+- main.cpp: Main code.
+- myglwidget.cpp, myglwidget.h: OpenGL 3D rending
+- results.cpp, results.h: Output Monte-Carlo calculatin results
+- solver.cpp, solver.h: KMC solver with thread control
+- window.cpp, window.h, and window.ui: QT5 window and widges
+
+# Contacts
 For any question, please contact us: Tianshi Wang (tswang@udel.edu) & Wei Li (Verali@udel.edu).
