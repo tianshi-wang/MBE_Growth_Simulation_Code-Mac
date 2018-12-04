@@ -3,9 +3,9 @@
 # Table of content
 1. [Description](README.md#Description)
 2. [Approach](README.md#approach)
+3. [User Interface](REAME.md#user-interface)
 4. [Code Structure](README.md#code-structure)
-5. [Module Description](REAME.md#module-description)
-6. [Contacts](README.md#contacts)
+5. [Contacts](README.md#contacts)
 
 # Description
 This is the source file package of the MBE Growth Simulation Code for Mac users. For Windows users, please find the source files and compiled codes using this [link](https://github.com/tianshi-wang/MBE_Growth_Simulation_Code-Windows).
@@ -17,7 +17,7 @@ The coded is based on the KMCInterative code written by Michael Grundmann (mgrun
 
 The code is written using C++ with OpenGL and QT5. To revise or recompile the code, first download [QT5](https://www1.qt.io/download-open-source/?hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2). Then, open the downloaded source files (**MBEcodeSourceFiles_MAC.zip**) with QT5. Make sure your framework has the OpenGL and GLUT libraries. 
 
-# Display 
+# User Interface 
 
 Code layout is shown below. 
 
