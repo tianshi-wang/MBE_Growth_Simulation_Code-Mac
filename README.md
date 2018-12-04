@@ -19,9 +19,16 @@ The code is written using C++ with OpenGL and QT5. To revise or recompile the co
 
 # Display 
 
+Code layout is shown below. 
 <br>
-<image height=700 src="https://github.com/tianshi-wang/MBE_Growth_Simulation_Code-Mac/blob/master/screenshots/Initial_state.png" \>
+<image height=400 src="https://github.com/tianshi-wang/MBE_Growth_Simulation_Code-Mac/blob/master/screenshots/Initial_state.png" \>
 <br>
+
+By adjusting parameters, the following growth morphologies can be observed.
+<br>
+<image height=150 src="https://github.com/tianshi-wang/MBE_Growth_Simulation_Code-Mac/blob/master/screenshots/morphologies.png" \>
+<br>
+
 
 # Code Structure
 - Icon.icon: Code icon. 
